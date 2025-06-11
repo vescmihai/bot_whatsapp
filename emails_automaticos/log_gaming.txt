@@ -1,0 +1,11 @@
+﻿REPORTE DE ENVÍO MASIVO DE PDFs
+============================================
+
+Proceso ejecutado exitosamente
+Total clientes procesados: 1
+Emails enviados: 0
+
+CARPETA DE ARCHIVOS: C:\Users\vescm\Desktop\backend-topicos-2-main\emails_automaticos
+
+============================================
+Gaming Store - Sistema Automatizado

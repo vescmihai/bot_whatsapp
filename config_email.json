@@ -1,0 +1,11 @@
+{
+    "email_remitente": "vescmihai@gmail.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email_password": "tu_app_password_aqui",
+    "asunto_email": "📊 Tu Reporte Gaming Personalizado - Productos de tu Interés",
+    "dias_actividad_minima": 7,
+    "limite_clientes_por_envio": 10,
+    "carpeta_pdfs_temp": "C:\\EmailAutomation\\temp_pdfs",
+    "carpeta_logs": "C:\\EmailAutomation\\logs"
+}

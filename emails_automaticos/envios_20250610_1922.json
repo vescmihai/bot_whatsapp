@@ -1,0 +1,16 @@
+{
+  "timestamp": "20250610_1922",
+  "fecha_proceso": "2025-06-10T19:23:26.921793",
+  "total_clientes": 1,
+  "clientes": [
+    {
+      "nombre": "Cliente 59171661288",
+      "email": "migueljppx@gmail.com",
+      "telefono": "59171661288",
+      "archivo_pdf": "C:\\Users\\vescm\\Desktop\\backend-topicos-2-main\\emails_automaticos\\pdf_59171661288_20250610_1922.pdf",
+      "asunto": "📊 Tu Reporte Gaming Personalizado - 10/06/2025",
+      "estado": "pendiente"
+    }
+  ],
+  "carpeta_pdfs": "C:\\Users\\vescm\\Desktop\\backend-topicos-2-main\\emails_automaticos"
+}
